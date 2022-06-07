@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_accept_orders.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_add_staff.xml" value="0.1" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_admin_home_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_admin_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_books.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_bottom_wear.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_clothing.xml" value="0.22" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_current_order_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_formals.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_home_page.xml" value="0.15" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_login_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_mens_clothing.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_place_order.xml" value="0.1" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_reg_log_choice.xml" value="0.22" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_register_page.xml" value="0.22" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/activity_womens_clothing.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/app_bar_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/content_home_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/fragment_send.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/fragment_tools.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/st988/AndroidStudioProject/Shopping-Ecommerce-App-Project-master/app/src/main/res/layout/list_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
