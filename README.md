@@ -1,4 +1,4 @@
-<h1 align="center">Shopping-Ecommerce-App-Project</h1>
+<h1 align="center">Spicy app</h1>
 <h3 align="center">Online Ecommerce App built on Android Studio and Firebase Realtime Database.</h3>
 <p align="center"><img src="https://github.com/vijayjoshi16/Shopping-Ecommerce-App-Project/blob/master/App%20Screenshots/logo.png?raw=true"/></p>
 
