@@ -80,13 +80,13 @@ ADMIN PASSWORD-appadmin123</b>
 <br>
 Home page for admin displaying options for the tasks which he/she wants to perform
 <br>
-<img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/10.Admin%20Home%20Page.png" width=250 height=500 style="border-radius:5%">
+
 <br>
 23.ADD STOCK
 <br>
 Add stock of each item availaible on the app by updating data on StockReg database
 <br>
-<img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/12.Add%20Stock.png" width=250 height=500 style="border-radius:5%">
+
 <br>
 24.STOCKSREG
 <br>
@@ -96,7 +96,7 @@ Java file containing constructor to initialize database objects for items and fu
 <br>
 Add staff(delivery boy) by pushing the details of the staff through an object of StaffReg class onto the Firebase Reatime Database
 <br>
-<img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/11.Staff%20Register.png" width=250 height=500 style="border-radius:5%">
+
 <br>
 26.STAFFREG
 <br>
