@@ -1,5 +1,5 @@
 <h1 align="center">Spicy app</h1>
-<h3 align="center">Online Ecommerce App built on Android Studio and Firebase Realtime Database.</h3>
+<h3 align="center">Online Spicy App built on Android Studio and Firebase Realtime Database.</h3>
 <p align="center"><img src="
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr9rpzqTm0NDCl6d6AbNCz5UQWjvw8MsYytw&usqp=CAU"/></p>
 
